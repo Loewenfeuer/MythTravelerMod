@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "mythtramod:block/dead_sandstone_top",
+        "side": "mythtramod:block/dead_chiseled_sandstone_block"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "mythtramod:block/dead_cut_sandstone_slab" },
+        "type=top": { "model": "mythtramod:block/dead_cut_sandstone_slab_top" },
+        "type=double": { "model": "mythtramod:block/dead_cut_sandstone_block" }
+    }
+}

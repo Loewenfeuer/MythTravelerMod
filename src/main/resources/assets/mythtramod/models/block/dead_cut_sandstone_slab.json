@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "mythtramod:block/dead_cut_sandstone_top",
+        "top": "mythtramod:block/dead_cut_sandstone_top",
+        "side": "mythtramod:block/dead_cut_sandstone_block"
+    }
+}

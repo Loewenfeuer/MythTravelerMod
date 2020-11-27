@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "mythtramod:block/dead_sand_block" },
+            { "model": "mythtramod:block/dead_sand_block", "y": 90 },
+            { "model": "mythtramod:block/dead_sand_block", "y": 180 },
+            { "model": "mythtramod:block/dead_sand_block", "y": 270 }
+        ]
+    }
+}

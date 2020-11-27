@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_inventory",
+    "textures": {
+        "wall": "mythtramod:block/dead_sandstone_block"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_wall_side",
+    "textures": {
+        "wall": "mythtramod:block/dead_cut_sandstone_block"
+    }
+}
